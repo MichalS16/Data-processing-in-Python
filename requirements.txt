@@ -1,0 +1,9 @@
+jupyter
+numpy
+pandas
+requests
+pytz
+python-dateutil
+python-dotenv
+matplotlib
+ipykernel
